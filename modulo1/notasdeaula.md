@@ -2,6 +2,6 @@
 
 ## Git e Github
 
-### nota 1
+### instalação do git
 
-### nota 2
+### comandos
